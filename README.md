@@ -37,15 +37,15 @@ This repository contains basic and intermediate-level C++ programs that help str
 ---
 
 ### Requirements:
--> C++ Compiler: GCC/G++ (Windows/Linux) or MinGW (Windows)
--> Terminal or IDE with build support (e.g., VS Code, Dev C++)
+'-> C++ Compiler: GCC/G++ (Windows/Linux) or MinGW (Windows)'
+'-> Terminal or IDE with build support (e.g., VS Code, Dev C++)'
 
 ### Learning Objectives:
 
--> Understand the syntax and semantics of C++
--> Practice control structures like if, else, switch
--> Master loops such as for, while, do-while
--> Implement modular code using functions
--> Develop logic for solving computational problems
--> Apply mathematical and logical conditions in real-time examples
--> Strengthen debugging, compiling, and execution practices
+'-> Understand the syntax and semantics of C++'
+'-> Practice control structures like if, else, switch'
+'-> Master loops such as for, while, do-while'
+'-> Implement modular code using functions'
+'-> Develop logic for solving computational problems'
+'-> Apply mathematical and logical conditions in real-time examples'
+'-> Strengthen debugging, compiling, and execution practices'
