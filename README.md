@@ -2,8 +2,8 @@
 <h1>🔷 Diploma C++ Programs Repository</h1>
 <p>
   <img src="https://img.shields.io/badge/Language-C++-blue.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/github/Repo-size/kush1310/C-?style=flat-square">
-  <img src="https://img.shields.io/github/Last-commit/kush1310/C-?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/kush1310/C-?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/kush1310/C-?style=flat-square">
   <img src="https://img.shields.io/badge/Maintainer-Kush%20Amit%20Shah-blue?style=flat-square">
 </p>
 <p>
