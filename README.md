@@ -55,4 +55,4 @@ This repository contains basic and intermediate-level C++ programs that help str
 --- Diploma in Computer Engineering  
 --- Gujarat, India  
 --- Mail: kushshah900@gmail.com  
---- Interests: Cybersecurity | Web Development | C++ Programming  
+--- Interests: Cybersecurity | Web Development | Logical Programming  
