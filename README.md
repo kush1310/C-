@@ -53,6 +53,7 @@ This repository contains basic and intermediate-level C++ programs that help str
 ### Author  
 --- Kush Amit Shah  
 --- Diploma in Computer Engineering  
+--- B.Tech (Pursuing)
 --- Gujarat, India  
 --- Mail: kushshah900@gmail.com  
 --- Interests: Cybersecurity | Web Development | Logical Programming  
