@@ -1,21 +1,14 @@
 <div align="center">
-
 <h1>🔷 Diploma C++ Programs Repository</h1>
-
 <p>
   <img src="https://img.shields.io/badge/Language-C++-blue.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/github/repo-size/kush1310/C-?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/kush1310/C-?style=flat-square">
+  <img src="https://img.shields.io/github/Repo-size/kush1310/C-?style=flat-square">
+  <img src="https://img.shields.io/github/Last-commit/kush1310/C-?style=flat-square">
   <img src="https://img.shields.io/badge/Maintainer-Kush%20Amit%20Shah-blue?style=flat-square">
 </p>
-
 <p>
   A structured and curated repository of fundamental C++ programs created during Semester 2 of my Diploma in Computer Engineering.
-</p>
-
-<hr>
-
-</div>
+</p><hr></div>
 
 ---
 
@@ -45,18 +38,16 @@ This repository contains basic and intermediate-level C++ programs that help str
 
 ---
 
-## 💻 How to Compile & Run
+### Requirements:
+-> C++ Compiler: GCC/G++ (Windows/Linux) or MinGW (Windows)
+-> Terminal or IDE with build support (e.g., VS Code, Dev C++)
 
-### 🔧 Requirements:
+### Learning Objectives:
 
-- C++ Compiler: GCC/G++ (Windows/Linux) or MinGW (Windows)
-- Terminal or IDE with build support (e.g., VS Code, Dev C++)
-
-### ▶️ Compile & Execute:
-
-```bash
-# Compile
-g++ filename.cpp -o program
-
-# Execute
-./program
+-> Understand the syntax and semantics of C++
+-> Practice control structures like if, else, switch
+-> Master loops such as for, while, do-while
+-> Implement modular code using functions
+-> Develop logic for solving computational problems
+-> Apply mathematical and logical conditions in real-time examples
+-> Strengthen debugging, compiling, and execution practices
